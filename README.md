@@ -6,6 +6,15 @@ The application has a user-friendly interface designed with Tkinter, making it e
 
 Key Features:
 
-    Google OCR Integration: Utilizes Google OCR credentials for reliable and precise text extraction.
-    Tkinter GUI: A clean and intuitive graphical interface for seamless interaction, making the process simple and efficient.
-    Python-Powered: Developed entirely in Python, ensuring broad compatibility and ease of customization.
+Google OCR Integration: Utilizes Google OCR credentials for reliable and precise text extraction.
+Tkinter GUI: A clean and intuitive graphical interface for seamless interaction, making the process simple and efficient.
+Python-Powered: Developed entirely in Python, ensuring broad compatibility and ease of customization.
+
+INTERFACE VIEW
+![Screenshot from 2024-08-16 23-05-46](https://github.com/user-attachments/assets/de6a37fd-564e-417f-b25e-f13fb3c7695d)
+
+SELECTING FILE 
+![Screenshot from 2024-08-16 23-05-55](https://github.com/user-attachments/assets/4d9e4bef-03f2-48f0-b900-aa3176b62014)
+
+DISPLAY of the TEXT
+![Screenshot from 2024-08-16 23-12-02](https://github.com/user-attachments/assets/ef1f6379-94c8-4cf2-ae09-fa369b440d1f)
